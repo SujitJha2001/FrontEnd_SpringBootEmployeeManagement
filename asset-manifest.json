@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FrontEnd_SpringBootEmployeeManagement/static/css/main.400db72d.css",
+    "main.js": "/FrontEnd_SpringBootEmployeeManagement/static/js/main.d446eb93.js",
+    "static/js/787.e9a14399.chunk.js": "/FrontEnd_SpringBootEmployeeManagement/static/js/787.e9a14399.chunk.js",
+    "index.html": "/FrontEnd_SpringBootEmployeeManagement/index.html",
+    "main.400db72d.css.map": "/FrontEnd_SpringBootEmployeeManagement/static/css/main.400db72d.css.map",
+    "main.d446eb93.js.map": "/FrontEnd_SpringBootEmployeeManagement/static/js/main.d446eb93.js.map",
+    "787.e9a14399.chunk.js.map": "/FrontEnd_SpringBootEmployeeManagement/static/js/787.e9a14399.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.400db72d.css",
+    "static/js/main.d446eb93.js"
+  ]
+}
